@@ -565,6 +565,7 @@
     padding-top: 4px;
     overflow: auto;
     overflow-x: hidden;
+    overscroll-behavior-y: contain;
   }
 
   .bottom-nav-scrollable-area {
